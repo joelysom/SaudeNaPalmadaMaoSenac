@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.npm-cache/
+.git/
+.vscode/
+test-results/
+playwright-report/
+tests/
+docs/
+*.log
+*.tsbuildinfo
+SNPDM.pdf
+SNPDM_logo.png
+.env
+.env.*
+!.env.example
